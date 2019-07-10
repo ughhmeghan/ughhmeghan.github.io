@@ -1,14 +1,12 @@
-Package: com.ughhmeghan.shades
+Package: com.ughhmeghan.delighted
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Ughhmeghan <four@snakebite.com>
-Filename: debs/Shades.deb
-Size: 33665776
-MD5sum: cc845beb9f3560ee26e1b982924109da
-SHA1: fad322ea715ce3ebd742c4bb7a964ba135cae040
-SHA256: bf34b3e331769459502256ed5869f821bf699db93f4a529c145d02fec53eecac
+Filename: debs/Delighted.deb
+Size: 2566760
+MD5sum: 86b584301d767ee39983d28f7601a261
+SHA256: d0c6b26ab5ac4a496169c0bd29da57920f9c8fd206337f867d0fdf791c63698a
 Section: Themes
-Description: Shades is a beautiful soft theme. Work In Progress
+Description: A light and a dark theme with beautiful gradients.
 Author: Ughhmeghan <four@snakebite.com>
-Name: Shades
-
+Name: DeLighted
