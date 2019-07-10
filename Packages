@@ -1,12 +1,13 @@
 Package: com.ughhmeghan.delighted
+Name: DeLighted
 Version: 1.0
+Description: A light and a dark theme with beautiful gradients.
+Author: Ughhmeghan <four@snakebite.com>
+Section: Themes
 Architecture: iphoneos-arm
-Maintainer: Ughhmeghan <four@snakebite.com>
-Filename: debs/Delighted.deb
 Size: 2566760
 MD5sum: 86b584301d767ee39983d28f7601a261
 SHA256: d0c6b26ab5ac4a496169c0bd29da57920f9c8fd206337f867d0fdf791c63698a
-Section: Themes
-Description: A light and a dark theme with beautiful gradients.
-Author: Ughhmeghan <four@snakebite.com>
-Name: DeLighted
+SileoDepiction: https://repo.tylerd3v.fun/sileo/chronus.json
+Filename: debs/Delighted.deb
+Maintainer: Ughhmeghan <four@snakebite.com>
